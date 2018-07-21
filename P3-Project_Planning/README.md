@@ -7,4 +7,4 @@
 *![Single blog page](Single blog page@2x.png)
 
 ### Project Tracker
-*![Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2184054)
+•  Project Tracker: [Pivotal](https://www.pivotaltracker.com/n/projects/2184054)
