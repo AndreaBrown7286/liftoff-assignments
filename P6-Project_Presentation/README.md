@@ -8,4 +8,4 @@ We want to you to create a set of presentation slides summarizing your project.
 
 ### Presentation
 Upload a .PDF of your presentation here for review.
-<a href ="file:///C:/Users/andre/lift_off/liftoff-assignments/P6-Project_Presentation/HappyCamper%20presentation.pdf"></a>
+[HappyCamper presentation](file:///C:/Users/andre/lift_off/liftoff-assignments/P6-Project_Presentation/HappyCamper%20presentation.pdf)
